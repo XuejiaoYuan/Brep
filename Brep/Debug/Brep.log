@@ -1,0 +1,15 @@
+﻿  main.cpp
+f:\002 zju\002 cad\brep\brep\main.cpp(10): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+f:\002 zju\002 cad\brep\brep\main.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(264): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(266): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(279): warning C4018: “<”: 有符号/无符号不匹配
+f:\002 zju\002 cad\brep\brep\main.cpp(324): warning C4018: “<”: 有符号/无符号不匹配
+  Brep.vcxproj -> F:\002 ZJU\002 CAD\Brep\Debug\Brep.exe
+  Brep.vcxproj -> F:\002 ZJU\002 CAD\Brep\Debug\Brep.pdb (Partial PDB)
