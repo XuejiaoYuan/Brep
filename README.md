@@ -5,6 +5,7 @@ Brep data structure and euler operator. Based on C++.
 [input file name]
 
 # File Format
+```
   #outterLoop   //outter loop's tag
 
   0 0 0         //outter loop's vertex
@@ -48,6 +49,7 @@ Brep data structure and euler operator. Based on C++.
   #direction    //direction's tag
 
   0 0 1 2       //vector of direction and distance
+```
 
 # Output
 This project will output a file named "testCube.brp". You can changed the file name in main.cpp.
