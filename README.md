@@ -1,10 +1,8 @@
 # Brep
 Brep data structure and euler operator. Based on C++.
 
-
 # Usage
 [input file name]
-
 
 # File Format
 #outterLoop   //outter loop's tag
